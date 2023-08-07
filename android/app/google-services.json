@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "544009711182",
+    "project_id": "tetetete-9f956",
+    "storage_bucket": "tetetete-9f956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544009711182:android:a65924ecef6495cec6dd1f",
+        "android_client_info": {
+          "package_name": "com.example.banana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544009711182-jrl6052hc0mqtks542atssk94lq3pde5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAgIpCx-Y8azdlv7G8Vo-HH_Ls-vbCrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544009711182-i2uilajcplhjqsa051b2t03c0ei06bq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544009711182-gmtkn7385e6andn7iiksdf6vflgsp6vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tenten.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544009711182:android:4aa83f78ab9b857ac6dd1f",
+        "android_client_info": {
+          "package_name": "com.example.tenten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544009711182-jrl6052hc0mqtks542atssk94lq3pde5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAgIpCx-Y8azdlv7G8Vo-HH_Ls-vbCrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544009711182-i2uilajcplhjqsa051b2t03c0ei06bq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544009711182-gmtkn7385e6andn7iiksdf6vflgsp6vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tenten.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
